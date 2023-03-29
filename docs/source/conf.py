@@ -37,3 +37,6 @@ epub_show_urls = 'footnote'
 html_css_files = [
     'css/custom.css',
 ]
+html_static_path = ['_static']
+html_logo = 'logo.svg'
+# or possibly = "_static/logo.png"
