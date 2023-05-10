@@ -34,6 +34,16 @@ html_theme = 'sphinx_rtd_theme'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
+# added to make the width parameters work
 html_css_files = [
     'css/custom.css',
 ]
+
+# added this section for logo-ing
+html_static_path = ['_static']
+#html_logo = 'logo.svg'
+html_logo = 'University-Wordmark-Reversed-Blue-RGB.png'
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
