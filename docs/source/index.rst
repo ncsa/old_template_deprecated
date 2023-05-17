@@ -1,5 +1,5 @@
 ################################################
-NCSA XXXXXXX User Guide
+NCSA XXXXXXX System User Guide
 ################################################
 
 Introduction to the cluster goes here.  
