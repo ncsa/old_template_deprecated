@@ -42,7 +42,7 @@ html_css_files = [
 # added this section for logo-ing
 html_static_path = ['_static']
 #html_logo = 'logo.svg'
-html_logo = 'NCSA_OrangeI_RGB.png'
+html_logo = 'University-Wordmark-Reversed-Blue-RGB.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
