@@ -43,7 +43,7 @@ html_css_files = [
 html_static_path = ['_static']
 #html_logo = 'logo.svg'
 #html_logo = 'University-Wordmark-Reversed-Blue-RGB.png'
-html_logo = 'SUPER_BlueI_RGB.png'
+html_logo = 'SUPER_Bluel_RGB.png'
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
